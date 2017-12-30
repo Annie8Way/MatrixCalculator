@@ -1,0 +1,39 @@
+I:\Project\Matrix\Matrix Calculation\Matrix Calculation\bin\Debug\Matrix Calculation.exe.config
+I:\Project\Matrix\Matrix Calculation\Matrix Calculation\bin\Debug\Matrix Calculation.exe
+I:\Project\Matrix\Matrix Calculation\Matrix Calculation\bin\Debug\Matrix Calculation.pdb
+I:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.csprojResolveAssemblyReference.cache
+I:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix_Calculation.Form1.resources
+I:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix_Calculation.Properties.Resources.resources
+I:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.csproj.GenerateResource.Cache
+I:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.exe
+I:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.pdb
+I:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix_Calculation.unknown.resources
+I:\Project\Matrix\Matrix Calculation\Matrix Calculation\bin\Debug\NLinear.pdb
+O:\Project\Matrix\Matrix Calculation\Matrix Calculation\bin\Debug\Matrix Calculation.exe.config
+O:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.exe
+O:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.pdb
+O:\Project\Matrix\Matrix Calculation\Matrix Calculation\bin\Debug\Matrix Calculation.exe
+O:\Project\Matrix\Matrix Calculation\Matrix Calculation\bin\Debug\Matrix Calculation.pdb
+O:\Project\Matrix\Matrix Calculation\Matrix Calculation\bin\Debug\NLinear.pdb
+O:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.csprojResolveAssemblyReference.cache
+O:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix_Calculation.Form1.resources
+O:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix_Calculation.Properties.Resources.resources
+O:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix_Calculation.unknown.resources
+O:\Project\Matrix\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.csproj.GenerateResource.Cache
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\bin\Debug\Matrix Calculation.exe.config
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\bin\Debug\Matrix Calculation.exe
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\bin\Debug\Matrix Calculation.pdb
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\bin\Debug\NLinear.pdb
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.csprojResolveAssemblyReference.cache
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix_Calculation.Form1.resources
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix_Calculation.Properties.Resources.resources
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix_Calculation.unknown.resources
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.csproj.GenerateResource.Cache
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.exe
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\obj\Debug\Matrix Calculation.pdb
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\bin\Debug\NGraphics.dll
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\bin\Debug\NGraphics.WPF.dll
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\bin\Debug\NGraphics.xml
+C:\Users\Хермеус Мора\source\repos\Matrix Calculation\Matrix Calculation\bin\Debug\NGraphics.WPF.xml
